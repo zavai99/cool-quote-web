@@ -1,1 +1,0 @@
-# cool-quote-web
